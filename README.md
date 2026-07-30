@@ -156,7 +156,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2026/07/30、プール入り口の花壇のお花から、スーパーのお花達まで !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 熊本地震の悲惨な映像が届いています。お見舞いと、不明者たちのご無事をお祈りします。2026/07/30、プール入り口の花壇のお花から、スーパーのお花達まで !!!</marquee></span></h1>
 
 
 
